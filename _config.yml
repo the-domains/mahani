@@ -1,0 +1,28 @@
+name: Mahani
+favicon: null
+layout_spectrum: 0.7899881710764021
+typography_spectrum: 0.5127194370143116
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3889352041296661
+  lightness: 0.5719336583279073
+  saturation: 0.003664621850475669
+  rhythmicContrast: 0.18518622312694788
+purpose: []
